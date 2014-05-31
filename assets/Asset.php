@@ -16,7 +16,7 @@ class Asset extends AssetBundle {
 	/**
 	 * @inheritdoc
 	 */
-	public $sourcePath = '@backbone/public';
+	public $sourcePath = '@wbl/backbone/public';
 
 	/**
 	 * @inheritdoc
